@@ -8,7 +8,7 @@ An autonomous chess-playing robotic arm built with **Python**, powered by **Stoc
 ##  Project Showcase
 
 <div align="center">
-  <img src="images/arm_front.jpg" alt="Front view of robotic arm" width="30%" />
+  <img src="Arm.jpg" alt="Front view of robotic arm" width="30%" />
   <img src="images/arm_side.jpg" alt="Side view with electronics" width="30%" />
   <img src="images/arm_action.jpg" alt="Robot making a chess move" width="30%" />
 </div>
