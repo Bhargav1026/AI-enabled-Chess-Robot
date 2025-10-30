@@ -1,8 +1,7 @@
 --Developed an Al-Enabled robotic Scara arm capable of playing chess. --Successfully demonstrated the robot's ability to play chess against human. https://youtu.be/caFh0R7WLhY?si=xEmHja3Sfm7iujAI
 # AI-Enabled Chess Robot (Python + Stockfish + Ramps 1.4)
 
-An autonomous chess-playing robotic arm built with **Python**, powered by **Stockfish** for chess intelligence, and driven by a **Ramps 1.4** controller for precise stepper motor control. Developed using **Thonny IDE** for rapid testing and deployment. Built in **2021** by **Gunapu Bhargava**.
-
+An autonomous chess-playing robotic arm built with **Python**, powered by **Stockfish** for chess intelligence, and driven by a **Ramps 1.4** controller for precise stepper motor control. Developed using **Thonny IDE** for rapid testing and deployment. 
 ---
 
 ##  Project Showcase
